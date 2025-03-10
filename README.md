@@ -10,7 +10,7 @@ Small local LM models would be about only 2~3B params. Due to their size, comple
 
 ### Using another Large LM as Agent actor
 
-Instead of directly using small LM models as agent actor, I tried to use another Large LM as agent as a provider and agent actor, and seems like it works!
+Instead of directly using small LM models as agent actor, I use another Large LM as agent as a provider and agent actor.
 
 ### Workflow
 
